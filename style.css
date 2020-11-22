@@ -1,0 +1,16 @@
+li {
+	padding: 0.5%; 
+}
+
+h2 {
+	color:#ff6600;
+}
+
+#btn:hover {
+    background-color: #fc5c17;
+    color: black;
+}
+
+h4 {
+	color:#ff0000;
+}
